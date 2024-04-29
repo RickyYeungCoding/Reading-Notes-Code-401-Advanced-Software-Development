@@ -25,6 +25,7 @@ I can set certain standards and timelimits on how long it takes for my complete 
 I would like to learn more about ethical hacking, I find myself curious on that topic because I would like to know how to prevent threats. I thought vulnerability testing would be a cool things to learn but I do not want to mess up my personal computer.
 
 
-
+## Things I want to know more about
+As I mentioned before, I would like to expand my knowledge on ethical hacking as that is the meat of cybersecurity
 
 
